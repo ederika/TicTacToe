@@ -1,4 +1,4 @@
-[Demolink](https://ederika.github.io/tictactoe/)
+You can see it here: [Demolink](https://ederika.github.io/tictactoe/)
 
 # Getting Started with Create React App
 
